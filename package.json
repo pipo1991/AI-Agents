@@ -1,0 +1,12 @@
+{
+  "name": "ai-agents",
+  "version": "1.0.0",
+  "description": "A simple, modular AI agent framework built on top of LangGraph.js.",
+  "type": "module",
+  "scripts": {
+    "test": "node tests/dummyAgent.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
